@@ -1,5 +1,3 @@
-# cpp-logic-practice
-Collection of basic C++ scripts exploring array searching, loops, and core logic.
 # C++ Core Fundamentals & Logic Building
 
 This repository contains my foundational C++ scripts focused on algorithmic logic, loop structures, and array manipulations.
