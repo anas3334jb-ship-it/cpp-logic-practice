@@ -14,7 +14,6 @@ int main(){
   int target ;
   cin>>target;
   cout<<linearsearch( arr , size , target)<<endl;
-
-
+    
     return 0;
 }
