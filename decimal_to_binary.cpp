@@ -8,7 +8,6 @@ int decTobinary(int n){
         n = n/2;
         binary+= rem * pow;
         pow*= 10;
-
     }
     return binary;
 }
